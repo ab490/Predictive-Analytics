@@ -1,2 +1,2 @@
 # Predictive-Analytics
-Analyzing and predicting CO2 emissions from country parameters like population, energy use, land use.
+A Predictive ML project to analyze and predict CO2 emissions from country-specific parameters such as economic indicators, population, energy use, land use,etc.
