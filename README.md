@@ -63,7 +63,7 @@ The dataset used is the Climate Change Data provided by the World Bank Group ava
 * Feature selection with recursive feature elimination and cross-validation
 * Hyperparameter tuning of a random forest model with cross-validation
 * Training and evaluation of the model with the best hyperparameters on the training data with cross-validation
-* Validation of the model on the test subset (previously unseen data)
+* Validation of the model on the test subset
 * Conclusions
 
 ***
