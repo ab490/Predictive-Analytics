@@ -1,6 +1,8 @@
 # Predictive-Analytics
 A Predictive ML project to analyze and predict CO2 emissions from country-specific parameters such as population, energy use, land use, etc.
 
+***
+
 ## 1. Project description
 
 ### Context and goals
@@ -28,7 +30,7 @@ The dataset used is the Climate Change Data provided by the World Bank Group ava
 
 ***
 
-## 3. Summary of all project stages
+## 2. Summary of all project stages
 The highlights of all project stages are briefly introduces in the following:
 
 ### Stage 1: Data cleaning and preparation
@@ -76,14 +78,3 @@ The highlights of all project stages are briefly introduces in the following:
 * Conclusions
 
 ***
-
-## 4. How to open
-
-* Just download and view the HTML files (exported from and identical with the Jupyter Notebooks) in an internet browser. These are located in the */HTML* folder
-
-or
-
-* download the Jupyter Notebooks (.ipynb files in the */Jupyter_Notebooks* folder), open Jupyter Notebooks, browse to the downloaded files and open them.
-
-***
-
