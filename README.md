@@ -48,19 +48,12 @@ The dataset used is the Climate Change Data provided by the World Bank Group ava
 
 ### Stage 2: Data exploration and visualization
 
-* Feature/column abbreviations and units
-* Definition of the hypothesis to be tested
+* Data overview
 * Feature engineering
     - features overview
     - derivation of additional important features
     - removal of unnecessary features
-* Prepare the visualization
-* Create plots
-	- a global look onto all relationships and detailed plots of chosen dependencies
-    - correlation matrix heatmaps
-    - scatterplots, histograms
-    - detection of outliers
-    - discussion of dependencies and trends
+* Visualization
 * Conclusions
 
 ### Stage 3: Predictive analysis with the Random Forest machine learning algorithm
