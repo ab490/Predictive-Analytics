@@ -31,19 +31,15 @@ The dataset used is the Climate Change Data provided by the World Bank Group ava
 ***
 
 ## 2. Summary of all project stages
-The highlights of all project stages are briefly introduces in the following:
 
 ### Stage 1: Data cleaning and preparation
 
-* Global data overview
-* Definition of the initial project goals
+* Data overview
 * Data cleaning
     - dealing with missing values
-    - transformation of the columns into a numerical data type
     - renaming of features
     - removing empty columns and rows
 * Data frame transformation
-    - melting of the data for each variable
     - integration of the data into a suitable data frame format
 * Removal of missing values
     - detection of missing values
